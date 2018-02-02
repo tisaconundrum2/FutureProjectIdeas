@@ -7,3 +7,4 @@ List of projects I want to try and build/design in the future
 - [ ] Unity, `Be Square` slide to move block game
 - [ ] Make and design your own assistant. R-Pi Python, voice control, Use Replika?
 - [ ] `CallAChef`, App designed to have someone come over and cook for you
+- [ ] Implement a simulator of a common economy
