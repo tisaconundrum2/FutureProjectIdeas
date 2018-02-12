@@ -5,6 +5,20 @@ List of projects I want to try and build/design in the future
 - [ ] Genetic Algorithm for playing in the Crypto Currency Exchange
 - [ ] ANN for playing games on phone using Vysor
 - [ ] Unity, `Be Square` slide to move block game
-- [ ] Make and design your own assistant. R-Pi Python, voice control, Use Replika?
+ - Use fingers to slide a block around
+ - By (say) level 5 the block will begin to move by itself
+ - The player will need to swipe the block back a certain number of times
+ - and get it to a goal area
+- [ ] Make and design your own curious assistant. R-Pi Python, voice control, Use Replika?
+ - Have it talk to you whenever, it doesn't matter when
 - [ ] `CallAChef`, App designed to have someone come over and cook for you
 - [ ] Implement a simulator of a common economy
+ - Have a population of `n` given people
+ - Each have a particular probability of buying something
+ - Chart the data over time and see what happens to the increase and decrease of economy
+- [ ] Implement a gene simulator. 
+ - Start off with 2 parents with particular genes
+ - Each have a particular trait that is given to their child
+ - Each parent has 4 children
+ - Let the children inbreed (ewww) 
+ - See what happens
