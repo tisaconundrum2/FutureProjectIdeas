@@ -23,4 +23,4 @@ List of projects I want to try and build/design in the future
  - Let the children inbreed (ewww) 
  - See what happens
 <img src="https://i.imgur.com/XDaqs02.png" width=300>
- - [ ] Implement a restaurant with people eating, waiting, and leaving. Add a probability of how soon each group of people will leave. 
+- [ ] Implement a restaurant with people eating, waiting, and leaving. Add a probability of how soon each group of people will leave. 
