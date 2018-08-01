@@ -24,3 +24,5 @@ List of projects I want to try and build/design in the future
  - See what happens
 <img src="https://i.imgur.com/XDaqs02.png" width=300>
 - [ ] Implement a restaurant with people eating, waiting, and leaving. Add a probability of how soon each group of people will leave. 
+- [ ] Implement a dynamic Resume website. Have a list of possible jobs in the header and when they're clicked the Resume changes based on that particular job
+- [ ] Create a tree of classes per semester based on pre-requisites and they are attached to eachoter
