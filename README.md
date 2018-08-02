@@ -1,5 +1,5 @@
 # FutureProjectIdeas
-List of projects I want to try and build/design in the future
+## List of projects I want to try and build/design in the future
 
 - [ ] CNN/ANN for discovering whether text leans more right or more left, politically speaking
 - [ ] Genetic Algorithm for playing in the Crypto Currency Exchange
@@ -23,6 +23,15 @@ List of projects I want to try and build/design in the future
  - Let the children inbreed (ewww) 
  - See what happens
 <img src="https://i.imgur.com/XDaqs02.png" width=300>
+
 - [ ] Implement a restaurant with people eating, waiting, and leaving. Add a probability of how soon each group of people will leave. 
 - [ ] Implement a dynamic Resume website. Have a list of possible jobs in the header and when they're clicked the Resume changes based on that particular job
 - [ ] Create a tree of classes per semester based on pre-requisites and they are attached to eachoter
+
+
+<hr>
+
+## Memes
+
+Slaps top of bagging machine\
+This bad boy can fit so many unexpected items in bagging area
