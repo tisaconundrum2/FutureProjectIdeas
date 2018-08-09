@@ -33,8 +33,11 @@ $ cleanup --help
  -h  --help       show this help message
  -r  --revert     restore your most clean up action
  -nc --no-clobber do not destroy previous files
+ -d  --diff       add a file to a folder and if the same file exists,
+                  simply add the dfference
  -y               overwrite all previous files
  -l               list all points of cleanup (can be used without -r)
+ 
  
  
 $ cleanup -l -nc
