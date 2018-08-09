@@ -27,7 +27,59 @@
 - [ ] Implement a restaurant with people eating, waiting, and leaving. Add a probability of how soon each group of people will leave. 
 - [ ] Implement a dynamic Resume website. Have a list of possible jobs in the header and when they're clicked the Resume changes based on that particular job
 - [ ] Create a tree of classes per semester based on pre-requisites and they are attached to eachoter
+- [ ] Linux program `cleanup`
+```
+$ cleanup --help
+ -h  --help       show this help message
+ -r  --revert     restore your most clean up action
+ -nc --no-clobber do not destroy previous files
+ -y               overwrite all previous files
+ -l               list all points of cleanup (can be used without -r)
+ 
+ 
+$ cleanup -l -nc
+ 0 Thu Aug  9 15:51:38 MST 2018
+ 1 Thu Aug  9 15:51:55 MST 2018
+ choose your files to restore: 0
+[##############################]
+restored your files
 
+
+$ cleanup
+[##############################]
+All your files have been organized based on their extensions
+
+$ cleanup -r
+[##############################]
+All your files are back where they came from
+```
+Common situation
+
+```
+$ ls
+random0.doc
+random1.doc
+random0.txt
+random1.txt
+random0.jpg
+random1.jpg
+random2.jpg
+random3.jpg
+folder0
+folder1
+folder2
+
+$ cleanup
+[##############################]
+All your files have been organized based on their extensions
+$ ls
+doc
+txt
+jpg
+folder0
+folder1
+folder2
+```
 
 <hr>
 
@@ -35,3 +87,4 @@
 
 Slaps top of bagging machine\
 This bad boy can fit so many unexpected items in bagging area
+
