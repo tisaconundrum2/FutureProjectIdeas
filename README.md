@@ -91,8 +91,9 @@ folder2
 Slaps top of bagging machine\
 This bad boy can fit so many unexpected items in bagging area
 
-Drinking games with Google Home or any virtual assistant.
+## Drinking games
 
+### Drinking games with Google Home or any virtual assistant.
 Guess that genre of music
 One person says a phrase, if a no song exists for said phrase take a drink.
 If the song does exist everyone has to guess a genre in the first 10 seconds
