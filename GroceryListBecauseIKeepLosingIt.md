@@ -3,7 +3,9 @@ Things to get from store
 - [ ] Milk
 - [ ] Sausage
 - [ ] Bread
+- [ ] Tortillas
 - [ ] Trash bags
 - [ ] Bananas
 - [ ] Beef
 - [ ] Chicken breast
+- [ ] Extra virgin olive oil
