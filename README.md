@@ -3,28 +3,44 @@
 
 - [ ] Neural Hex - Arduino Project
 - [ ] Open source ticketing system
- - Host the PHP on a cheap end server, have the rest hosted for a static page, like github pages
+- Host the PHP on a cheap end server, have the rest hosted for a static page, like github pages
 - [ ] CNN/ANN for discovering whether text leans more right or more left, politically speaking
 - [ ] Genetic Algorithm for playing in the Crypto Currency Exchange
 - [ ] ANN for playing games on phone using Vysor
-- [ ] Unity, `Be Square` slide to move block game
- - Use fingers to slide a block around
- - By (say) level 5 the block will begin to move by itself
- - The player will need to swipe the block back a certain number of times
- - and get it to a goal area
+
+---
+
+### Be Square (Unity Game)
+`Be Square` a game where a block turns on it's side to move.
+- Two Modes: Progressive and Puzzle
+- [ ] Progressive:
+- Swipe up, down, left, right while the screen moves behind you. Swipe too slow and your block will get eaten
+- This is an endless game where the player has a chance to get as many points as possible
+
+- [ ] Puzzle:
+- Player will be given an overview of the entire playing field
+- The player will need to swipe on the screen the predicted path the block will take
+- Once the player is satisfied with the swipe path, they can then press the [Play] button
+- The block will begin to turn and move through the puzzle
+- present the player the opportunity to 'rescue' their block
+- Award the player if they get to the goal area
+- Add stars to the system, secret paths the player can make in a game.
+
+---
+
 - [ ] Make and design your own curious assistant. R-Pi Python, voice control, Use Replika?
- - Have it talk to you whenever, it doesn't matter when
+- Have it talk to you whenever, it doesn't matter when
 - [ ] `CallAChef`, App designed to have someone come over and cook for you
 - [ ] Implement a simulator of a common economy
- - Have a population of `n` given people
- - Each have a particular probability of buying something
- - Chart the data over time and see what happens to the increase and decrease of economy
+- Have a population of `n` given people
+- Each have a particular probability of buying something
+- Chart the data over time and see what happens to the increase and decrease of economy
 - [ ] Implement a gene simulator. 
- - Start off with 2 parents with particular genes
- - Each have a particular trait that is given to their child
- - Each parent has 4 children
- - Let the children inbreed (ewww) 
- - See what happens
+- Start off with 2 parents with particular genes
+- Each have a particular trait that is given to their child
+- Each parent has 4 children
+- Let the children inbreed (ewww) 
+- See what happens
 <img src="https://i.imgur.com/XDaqs02.png" width=300>
 
 - [ ] Implement a restaurant with people eating, waiting, and leaving. Add a probability of how soon each group of people will leave. 
