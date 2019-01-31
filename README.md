@@ -50,7 +50,7 @@
 ```
 $ cleanup --help
  -h  --help       show this help message
- -r  --revert     restore your most clean up action
+ -r  --revert     restore your most recent clean up action
  -nc --no-clobber do not destroy previous files
  -d  --diff       add a file to a folder and if the same file exists,
                   simply add the difference
