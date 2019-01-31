@@ -2,8 +2,16 @@
 ## List of projects I want to try and build/design in the future
 
 - [ ] Neural Hex - Arduino Project
-- [ ] Open source ticketing system
-- Host the PHP on a cheap end server, have the rest hosted for a static page, like github pages
+
+---
+
+### Open source ticketing system
+- Host the PHP on a cheap end server
+- have the rest hosted on a static page, like github pages
+- Add JQuery/Javascript to make page dynamic
+
+---
+
 - [ ] CNN/ANN for discovering whether text leans more right or more left, politically speaking
 - [ ] Genetic Algorithm for playing in the Crypto Currency Exchange
 - [ ] ANN for playing games on phone using Vysor
