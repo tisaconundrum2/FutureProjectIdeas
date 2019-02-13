@@ -2,6 +2,7 @@
 ## List of projects I want to try and build/design in the future
 
 - [ ] Neural Hex - Arduino Project
+- [ ] Giant inflatable PEN15 where people donate money into it. It will steadily get bigger until it ejaculates half of the money from the tip. Showering people with half of the donated amount. This is an art exhibition.👌
 
 ---
 
