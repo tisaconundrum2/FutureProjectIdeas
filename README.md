@@ -37,6 +37,16 @@
 
 ---
 
+### Beat Death
+- A game about planning for the worst 
+- each player is given a birth card
+- the first card is a root card
+- the progression of the game is based on possible branches of life
+- similar to Inst Life game
+- the dice is death
+- several card piles for making decisions 
+- decisions build out your tree of possibilities 
+
 - [ ] Make and design your own curious assistant. R-Pi Python, voice control, Use Replika?
 - Have it talk to you whenever, it doesn't matter when
 - [ ] `CallAChef`, App designed to have someone come over and cook for you
