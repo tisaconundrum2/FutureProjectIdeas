@@ -47,6 +47,8 @@
 - several card piles for making decisions 
 - decisions build out your tree of possibilities 
 
+---
+
 - [ ] Make and design your own curious assistant. R-Pi Python, voice control, Use Replika?
 - Have it talk to you whenever, it doesn't matter when
 - [ ] `CallAChef`, App designed to have someone come over and cook for you
