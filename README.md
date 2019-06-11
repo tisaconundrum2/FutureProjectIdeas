@@ -128,8 +128,7 @@ folder0
 folder1
 folder2
 ```
-
-<hr>
+---
 
 ## Memes
 
