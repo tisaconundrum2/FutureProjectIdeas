@@ -6,6 +6,12 @@
 
 ---
 
+### Is it within your means
+
+- A program that looks at your overall spending and tells you if making particular big purchases that require a loan a good idea.
+
+---
+
 ### Open source ticketing system
 - Host the PHP on a cheap end server
 - have the rest hosted on a static page, like github pages
